@@ -1,8 +1,8 @@
-#Submission project
+# Submission project
 
 This is my submission project "Readable" for Udacity's React Nanodegree Program
 
-##Quick Start
+## Quick Start
 
 1. Goto root directory
 2. run `npm run install` to install all packages for the api-server and the frontend
