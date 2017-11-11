@@ -1,0 +1,10 @@
+{
+    "name": "readable",
+    "version": "1.0.0",
+    "private": true,
+    "scripts": {
+      "install": "cd api-server && yarn install && cd .. && cd frontend && yarn install && cd ..",
+      "start-server": "node ./api-server/server",
+      "start-frontend": "cd frontend && npm start"
+    }
+  }
